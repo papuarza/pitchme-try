@@ -1,0 +1,3 @@
+theme-override : assets/css/PITCHME.css
+logo : assets/logo_blue.png
+footnote : "Ironhack - WebDev v4.3"
